@@ -7,4 +7,4 @@ http.createServer(function (request, response) {
    response.end(msg);
 }).listen(8080);
 
-console.log('Server is running at http://0.0.0.0:8080/');
+console.log('Server running at http://0.0.0.0:8080/');
